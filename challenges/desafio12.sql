@@ -22,4 +22,3 @@ ORDER BY
     ELSE 4
   END,
   artista;
-  

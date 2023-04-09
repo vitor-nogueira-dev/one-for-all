@@ -41,9 +41,9 @@ npm install
 ````
 docker-compose up -d
 ````
-4. Crie o banco de dados com os comandos do arquivo `desafio1.sql`
-5. Depois que o banco estiver criado você pode copiar as querys dos arquivos `desafio2...9` e testar no seu ambiente MySQL
-6. Para testar as queries dos `desafios11...13` adicione uma nova tabela ao banco com os comandos contidos no arquivo `desafio10.sql`
+4. Crie o banco de dados com os comandos do arquivo `desafio1.sql`;
+5. Depois que o banco estiver criado você pode copiar as queries dos arquivos `desafio2...9` e testar no seu ambiente MySQL;
+6. Para testar as queries dos `desafios11...13` adicione uma nova tabela ao banco com os comandos contidos no arquivo `desafio10.sql`;
 
 ### Contribuições
 > 💡Contribuições são bem-vindas! Se você tiver alguma sugestão ou encontrar um bug, por favor, abra uma issue ou envie um pull request.
